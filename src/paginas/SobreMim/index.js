@@ -22,11 +22,19 @@ export default function SobreMim() {
             </p>
 
             <p className={styles.paragrafo}>
-                Sou alguém que gosta de aprender coisas novas, expandir seus conhecimentos e saber de tudo um pouco. Isso me fez muito generalista mas ao mesmo tempo me fez cursar duas graduações, uma de biologicas e outra de exatas e por fim estudar e trabalhar programação. E mesmo hoje estando na área de programação, vi de tudo um pouco, decidi me especializar em dados mas ainda tenho um pé que não quer sair do desenvolvimento de aplicações.
+                Gosto de coisas variadas, pratiquei vários esportes como futebol americano, circo, escalada e hoje sou atleta de cheerleading. Sou apaixonado por animais, principalmente cachorros e tenho uma pastora alemã chamada Maine. Também adoro jogar videogame, principalmente se for com amigos e de preferência em jogos para se perder amizade.
             </p>
 
             <p className={styles.paragrafo}>
-                Meu grande sonho é criar uma empresa do ZERO com um assunto que eu goste, com um fim que eu me identifique e de alguma forma ajudar pessoas com essa empresa, sem perder de vista a parte de negócios.
+                Sou alguém que gosta de aprender coisas novas, expandir seus conhecimentos e saber de tudo um pouco. Isso me fez muito generalista mas ao mesmo tempo me fez cursar duas graduações, uma de biologicas e outra de exatas e por fim estudar e trabalhar programação. E mesmo hoje estando na área de programação, vi de tudo um pouco, decidi me especializar em dados mas ainda tenho um pé que não quer sair do desenvolvimento.
+            </p>
+
+            <p className={styles.paragrafo}>
+                Me formei em química na USP e em Educação Física na FMU e as duas graduações traduzem bem esses meus dois lados, um mais nerdola que não quer sair do quarto e outro mais atlético e sociável que quer praticar esportes e interagir com todo mundo.
+            </p>
+
+            <p className={styles.paragrafo}>
+                Terminei na programação mas não foi de paraquedas. Na química fiz iniciação científica em química computacional e na educação física me voltei bastante à parte de alta performance. Em ambos vi um pouco de programação e análise de dados. Eventualmente percebi que o que eu gostava era de estudar e analisar, entender padrões, desenvolver teorias... E aqui estamos, pós toda essa jornada de auto conhecimento que está longe de acabar. Estudando front-end porque queria fazer um projetinho
             </p>
 
 
